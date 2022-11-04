@@ -7,3 +7,12 @@ public static void main(String [] args) {
 }
 
 '''
+
+
+''' JS
+
+function sayHello(){
+    alert("Waddup?");
+}
+
+'''
